@@ -19,6 +19,7 @@ public class StringPalindrome {
                     System.out.println("Not a Palindrome");
                 break;
             case 2:
+                System.out.println("Second method");
                 break;
         }
     }
